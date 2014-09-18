@@ -392,6 +392,9 @@ function setup() {
 	stroke(255, 255, 255);
 	ellipse(1970, 570, 150, 150);
 
+	noFill();
+}
+
 	function draw() {
   //background(246, 153, 136);
 //for (시작상태; 반복하는 조건; 증가값)
